@@ -1,0 +1,8 @@
+{
+    "defaultCommentOrder": "newest",
+    "originsRegex": [
+        "http://localhost:[0-9]+",
+        "https://superxiaolan.github.io",
+        "https://.*\\.superxiaolan.github.io"
+    ]
+}
